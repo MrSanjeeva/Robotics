@@ -1,0 +1,8 @@
+/home/groupproject/catkin_ws/build/youbot_description/CMakeFiles/_catkin_empty_exported_target.dir
+/home/groupproject/catkin_ws/build/CMakeFiles/clean_test_results.dir
+/home/groupproject/catkin_ws/build/CMakeFiles/download_extra_data.dir
+/home/groupproject/catkin_ws/build/CMakeFiles/doxygen.dir
+/home/groupproject/catkin_ws/build/gtest/CMakeFiles/gtest.dir
+/home/groupproject/catkin_ws/build/gtest/CMakeFiles/gtest_main.dir
+/home/groupproject/catkin_ws/build/CMakeFiles/run_tests.dir
+/home/groupproject/catkin_ws/build/CMakeFiles/tests.dir
